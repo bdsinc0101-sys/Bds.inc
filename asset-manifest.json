@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/bds.inc/static/css/main.03f9b0fe.css",
-    "main.js": "/bds.inc/static/js/main.a1224cd5.js",
-    "index.html": "/bds.inc/index.html",
-    "main.03f9b0fe.css.map": "/bds.inc/static/css/main.03f9b0fe.css.map",
-    "main.a1224cd5.js.map": "/bds.inc/static/js/main.a1224cd5.js.map"
+    "main.css": "/Bds.inc/static/css/main.03f9b0fe.css",
+    "main.js": "/Bds.inc/static/js/main.108bc161.js",
+    "index.html": "/Bds.inc/index.html",
+    "main.03f9b0fe.css.map": "/Bds.inc/static/css/main.03f9b0fe.css.map",
+    "main.108bc161.js.map": "/Bds.inc/static/js/main.108bc161.js.map"
   },
   "entrypoints": [
     "static/css/main.03f9b0fe.css",
-    "static/js/main.a1224cd5.js"
+    "static/js/main.108bc161.js"
   ]
 }
