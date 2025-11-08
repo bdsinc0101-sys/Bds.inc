@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bds.inc/static/css/main.43dbfa97.css",
+    "main.js": "/bds.inc/static/js/main.084a2615.js",
+    "index.html": "/bds.inc/index.html",
+    "main.43dbfa97.css.map": "/bds.inc/static/css/main.43dbfa97.css.map",
+    "main.084a2615.js.map": "/bds.inc/static/js/main.084a2615.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43dbfa97.css",
+    "static/js/main.084a2615.js"
+  ]
+}
