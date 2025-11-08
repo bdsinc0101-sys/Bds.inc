@@ -1,0 +1,12 @@
+
+- [x] Update ProfileCard.js: Simplify to a single card component with avatar, name, title, status, and contact button, using the portfolio card style.
+- [x] Update ProfileCard.css: Adapt styles to match the project-card from Portfolio.css, removing complex animations.
+- [x] Test the updated ProfileCard in the About page.
+- [x] Revert ProfileCard.js and ProfileCard.css back to original complex version as per user request.
+- [x] Update About.css: Make the texts on left and right of ProfileCard trendy 2025 UI with glassmorphism, gradients, and animations.
+- [x] Redesign Navbar: Modern 2025 style with logo, glassmorphism, hover effects, sticky, mobile hamburger menu, smooth scroll.
+- [x] Fix logo visibility: Add background, border, and brightness filter to make logo stand out against glassmorphism background.
+- [x] Redesign Contact page: Modern 2025 UI with glassmorphism cards, gradient text, hover animations, floating background, and responsive design.
+- [x] Redesign Testimonials page: Modern 2025 UI with glassmorphism testimonial cards, gradient titles, hover animations, floating background, quote styling, and responsive grid.
+- [x] Optimize performance: Reduced background gradient opacity, increased animation durations, added will-change properties to animated elements for smoother rendering.
+- [x] Enhance responsiveness: Added tablet (1024px) and small mobile (480px) breakpoints for Contact and Testimonials pages, adjusting font sizes, padding, grid layouts, and spacing for better mobile experience.
