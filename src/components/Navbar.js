@@ -23,7 +23,7 @@ const Navbar = () => {
   return (
     <nav className="navbar">
       <div className="navbar-logo" onClick={() => scrollToSection('home')}>
-        <img src="/images/data_1-removebg-preview.png" alt="Logo" />
+        <img src={`${process.env.PUBLIC_URL}/images/data_1-removebg-preview.png`} alt="Logo" onError={(e) => console.log('Logo failed to load:', e.target.src)} />
       </div>
 
       <ul className="navbar-links">

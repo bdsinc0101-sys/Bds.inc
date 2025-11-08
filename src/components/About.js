@@ -17,7 +17,7 @@ const About = () => {
             handle="Tay"
             status="Online"
             contactText="Contact Me"
-            avatarUrl="/images/data 2.jpg"
+            avatarUrl={`${process.env.PUBLIC_URL}/images/data 2.jpg`}
             showUserInfo={true}
             enableTilt={true}
             enableMobileTilt={false}

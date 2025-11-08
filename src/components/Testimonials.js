@@ -4,22 +4,40 @@ import './Testimonials.css';
 const Testimonials = () => {
   const testimonials = [
     {
-      name: 'John Doe',
-      position: 'CEO, TechCorp',
-      message: 'Alex delivered exceptional work on our e-commerce platform. His attention to detail and technical expertise were outstanding.',
+      name: 'Kofi Mensah',
+      position: 'CEO, GhanaTech Solutions',
+      message: 'Elorm delivered exceptional work on our e-commerce platform. His attention to detail and technical expertise were outstanding. He truly understands the Ghanaian market.',
       avatar: '👨‍💼'
     },
     {
-      name: 'Jane Smith',
-      position: 'Product Manager, StartupXYZ',
-      message: 'Working with Alex was a pleasure. He transformed our ideas into a beautiful, functional web application.',
+      name: 'Adwoa Asante',
+      position: 'Product Manager, Accra Innovations',
+      message: 'Working with Elorm was a pleasure. He transformed our ideas into a beautiful, functional web application that resonates with our local audience.',
       avatar: '👩‍💻'
     },
     {
-      name: 'Mike Johnson',
-      position: 'CTO, InnovateTech',
-      message: 'Alex\'s full-stack development skills helped us scale our application efficiently. Highly recommended!',
+      name: 'Yaw Boateng',
+      position: 'CTO, Tema Digital Hub',
+      message: 'Elorm\'s full-stack development skills helped us scale our application efficiently. His understanding of both local and international standards is remarkable!',
       avatar: '👨‍🔬'
+    },
+    {
+      name: 'Akua Osei',
+      position: 'Founder, Cape Coast Creative',
+      message: 'Elorm brought our vision to life with incredible precision. His work on our website has significantly boosted our online presence in Ghana.',
+      avatar: '👩‍🎨'
+    },
+    {
+      name: 'Emmanuel Richter',
+      position: 'Director, Kumasi Business Center',
+      message: 'Professional, reliable, and innovative. Elorm\'s expertise in modern web technologies has been a game-changer for our business operations.',
+      avatar: '👨‍💼'
+    },
+    {
+      name: 'Efua Addo',
+      position: 'Marketing Lead, Takoradi Ventures',
+      message: 'Elorm\'s ability to create user-friendly interfaces that work seamlessly across devices has greatly improved our customer engagement.',
+      avatar: '👩‍💼'
     }
   ];
 

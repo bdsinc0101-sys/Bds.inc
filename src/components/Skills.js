@@ -24,6 +24,18 @@ const Skills = () => {
           title: 'JavaScript',
           desc: 'A programming language for creating interactive web pages and applications.',
           link: '#'
+        },
+        {
+          tech: ['Proficiency: 75%'],
+          title: 'Node.js',
+          desc: 'A JavaScript runtime for server-side development and building scalable applications.',
+          link: '#'
+        },
+        {
+          tech: ['Proficiency: 70%'],
+          title: 'TypeScript',
+          desc: 'A typed superset of JavaScript that compiles to plain JavaScript, great for large-scale applications.',
+          link: '#'
         }
       ]
     },
@@ -35,6 +47,18 @@ const Skills = () => {
           tech: ['Proficiency: 90%'],
           title: 'HTML/CSS',
           desc: 'Markup and styling languages for building web pages.',
+          link: '#'
+        },
+        {
+          tech: ['Proficiency: 80%'],
+          title: 'React Native',
+          desc: 'A framework for building native mobile applications using React and JavaScript.',
+          link: '#'
+        },
+        {
+          tech: ['Proficiency: 80%'],
+          title: 'Express.js',
+          desc: 'A minimal and flexible Node.js web application framework for building APIs.',
           link: '#'
         }
       ]
@@ -53,6 +77,12 @@ const Skills = () => {
           tech: ['Proficiency: 75%'],
           title: 'Oracle',
           desc: 'An enterprise-grade relational database management system.',
+          link: '#'
+        },
+        {
+          tech: ['Proficiency: 75%'],
+          title: 'MongoDB',
+          desc: 'A NoSQL document database for modern applications requiring flexible data storage.',
           link: '#'
         }
       ]

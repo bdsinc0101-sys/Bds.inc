@@ -146,9 +146,9 @@ const Portfolio = () => {
           link: '#'
         }
       ]
-    }
-  ];
 
+  ];
+  
   return (
     <section className="portfolio-section">
       {categories.map(category => (

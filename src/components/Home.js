@@ -72,7 +72,7 @@ const Home = () => {
         zIndex: 1
       }}>
         <img
-          src="/images/profile.png"
+          src={`${process.env.PUBLIC_URL}/images/profile.png`}
           alt="Profile"
           style={{ maxWidth: '100%', maxHeight: '80vh', borderRadius: '20px', objectFit: 'cover' }}
         />
